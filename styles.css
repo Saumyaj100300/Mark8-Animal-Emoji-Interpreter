@@ -1,0 +1,22 @@
+.App {
+  font-family: "satisfy", cursive;
+  text-align: center;
+  /* background-color: #85FFBD; */
+}
+
+html {
+  background-color: #85ffbd;
+  /* background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%); */
+}
+
+.place-holder {
+  padding: 1rem;
+  margin: 1rem;
+  width: 80%;
+  border: 3px black solid;
+}
+
+.known-profession {
+  font-size: 1.5rem;
+  margin: 0.3rem;
+}
